@@ -1,44 +1,34 @@
 # Hi there, I'm David Adekunle 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io" /></a>
-</p>
+![LinkedIn](https://img.shields.io) [LinkedIn Profile](https://www.linkedin.com)
+![Email](https://img.shields.io) DavidAdekunle@example.com
 
 ---
 
 ### 🚀 About Me
-- 🔭 I am a **Software Developer** specializing in building modern, scalable web applications.
-- 💼 **Note:** My most impactful work is currently in **private repositories**, but you can see my activity in the contribution graph below.
-- 🌱 Currently mastering **Next.js Server Components** and advanced **TypeScript** patterns.
+- 🔭 **Software Developer** specializing in modern, scalable web apps.
+- 💼 My flagship work is in **private repositories**, reflected in my stats below.
+- 🌱 Mastering **Next.js Server Components** and advanced **TypeScript**.
 - ⚡ Fun fact: I'm addicted to clean UI and seamless user experiences.
 
 ---
 
 ### 🛠️ Languages & Frameworks
-<p align="left">
-  <!-- Core Languages & Frameworks -->
-  <img src="https://skillicons.dev" />
-</p>
+![My Skills](https://skillicons.dev)
 
 **UI Libraries & State Management:**
-<p align="left">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
+- ![Shadcn](https://img.shields.io)
+- ![ChakraUI](https://img.shields.io)
+- ![Redux](https://img.shields.io)
 
 ---
 
 ### 📊 GitHub Stats (Including Private Work)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="David's Stats" />
-  <img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
-</p>
+![David's Stats](https://github-readme-stats.vercel.app)
+
+![Top Languages](https://github-readme-stats.vercel.app)
 
 ---
 
 ### 🐍 Activity Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com" alt="David's Streak" />
-</p>
+![David's Streak](https://github-readme-streak-stats.herokuapp.com)

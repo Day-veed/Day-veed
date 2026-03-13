@@ -1,34 +1,38 @@
-# Hi there, I'm David Adekunle 👋
+<div align="center">
 
-![LinkedIn](https://img.shields.io) [LinkedIn Profile](https://www.linkedin.com)
-![Email](https://img.shields.io) davidadekunle9@gmail.com
+# Hello there, I'm David 👋
 
----
+[<img src="https://img.shields.io">](https://www.linkedin.com)
 
-### 🚀 About Me
-- 🔭 **Software Developer** specializing in modern, scalable web apps.
-- 💼 My flagship work is in **private repositories**, reflected in my stats below.
-- 🌱 Mastering **Next.js Server Components** and advanced **TypeScript**.
-- ⚡ Fun fact: I'm addicted to clean UI and seamless user experiences.
+Hello, David here 💻, Frontend Developer.
 
----
+🚀 I’m currently focused on building scalable web apps with Next.js and TypeScript.
 
-### 🛠️ Languages & Frameworks
-![My Skills](https://skillicons.dev)
+💻 Simply addicted to clean code and seamless UI.
 
-**UI Libraries & State Management:**
-- ![Shadcn](https://img.shields.io)
-- ![ChakraUI](https://img.shields.io)
-- ![Redux](https://img.shields.io)
+📬 How to reach me: [davidadekunle9@gmail.com](mailto:davidadekunle9@gmail.com)
 
 ---
 
-### 📊 GitHub Stats (Including Private Work)
-![David's Stats](https://github-readme-stats.vercel.app)
+## Languages & Frameworks & Tools & Abilities
 
-![Top Languages](https://github-readme-stats.vercel.app)
+<p align="center">
+  <img src="https://skillicons.dev" />
+</p>
+
+<!-- Since Shadcn and Chakra don't have standard icons, we use these high-quality badges to match -->
+<p align="center">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
 
 ---
 
-### 🐍 Activity Streak
-![David's Streak](https://github-readme-streak-stats.herokuapp.com)
+## GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app" />
+<img height="180em" src="https://github-readme-stats.vercel.app" />
+</p>
+
+</div>

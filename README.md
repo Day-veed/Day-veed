@@ -1,7 +1,7 @@
 # Hi there, I'm David Adekunle 👋
 
 ![LinkedIn](https://img.shields.io) [LinkedIn Profile](https://www.linkedin.com)
-![Email](https://img.shields.io) DavidAdekunle@example.com
+![Email](https://img.shields.io) davidadekunle9@gmail.com
 
 ---
 

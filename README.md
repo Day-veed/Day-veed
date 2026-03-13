@@ -6,7 +6,7 @@
 
 Hello, David here 💻, Frontend Developer.
 
-🚀 I’m currently focused on building scalable web apps with Next.js and TypeScript.
+🚀 I’m currently focused on building scalable web apps with **Next.js** and **TypeScript**.
 
 💻 Simply addicted to clean code and seamless UI.
 
@@ -17,10 +17,9 @@ Hello, David here 💻, Frontend Developer.
 ## Languages & Frameworks & Tools & Abilities
 
 <p align="center">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev" alt="David's Skills" />
 </p>
 
-<!-- Since Shadcn and Chakra don't have standard icons, we use these high-quality badges to match -->
 <p align="center">
   <img src="https://img.shields.io" />
   <img src="https://img.shields.io" />
@@ -31,8 +30,8 @@ Hello, David here 💻, Frontend Developer.
 ## GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app" />
-<img height="180em" src="https://github-readme-stats.vercel.app" />
+<img height="180em" src="https://github-readme-stats.vercel.app" alt="David's Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app" alt="Top Languages" />
 </p>
 
 </div>

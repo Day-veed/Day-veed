@@ -2,9 +2,9 @@
 
 # Hello there, I'm David 👋
 
-[<img src="https://img.shields.io">](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
 
-Hello, David here 💻, Frontend Developer.
+Hello, David here 💻, Software Developer.
 
 🚀 I’m currently focused on building scalable web apps with **Next.js** and **TypeScript**.
 
@@ -16,22 +16,25 @@ Hello, David here 💻, Frontend Developer.
 
 ## Languages & Frameworks & Tools & Abilities
 
-<p align="center">
-  <img src="https://skillicons.dev" alt="David's Skills" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
+<!-- Using Shields.io badges as a stable alternative to SkillIcons -->
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
+<br>
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
 
 ---
 
 ## GitHub Stats
 
+<!-- If these cards are still blank, GitHub is currently rate-limiting the service -->
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app" alt="David's Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app" alt="Top Languages" />
+<img height="170em" src="https://github-readme-stats.vercel.app" />
+<img height="170em" src="https://github-readme-stats.vercel.app" />
 </p>
 
 </div>

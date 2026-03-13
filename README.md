@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm David Adekunle 👋
 
-<!--
-**Day-veed/Day-veed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I am a **Software Developer** specializing in building modern, scalable web applications.
+- 💼 **Note:** My most impactful work is currently in **private repositories**, but you can see my activity in the contribution graph below.
+- 🌱 Currently mastering **Next.js Server Components** and advanced **TypeScript** patterns.
+- ⚡ Fun fact: I'm addicted to clean UI and seamless user experiences.
+
+---
+
+### 🛠️ Languages & Frameworks
+<p align="left">
+  <!-- Core Languages & Frameworks -->
+  <img src="https://skillicons.dev" />
+</p>
+
+**UI Libraries & State Management:**
+<p align="left">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
+---
+
+### 📊 GitHub Stats (Including Private Work)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="David's Stats" />
+  <img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
+</p>
+
+---
+
+### 🐍 Activity Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com" alt="David's Streak" />
+</p>

@@ -4,11 +4,11 @@
 
 [![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
 
-Hello, David here 💻, Software Developer.
+Hello, David here 💻, Frontend Engineer.
 
 🚀 I’m currently focused on building scalable web apps with **Next.js** and **TypeScript**.
 
-💻 Simply addicted to clean code and seamless UI.
+💻 Simply addicted to clean code, architecture and seamless UI.
 
 📬 How to reach me: [davidadekunle9@gmail.com](mailto:davidadekunle9@gmail.com)
 

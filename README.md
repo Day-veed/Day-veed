@@ -1,16 +1,16 @@
 <div align="center">
 
-# Hello there, I'm David 👋
+# Hello there, I'm David 
 
 [![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
 
-Hello, David here 💻, Frontend Engineer.
+Hello, David here, Frontend Engineer.
 
-🚀 I’m currently focused on building scalable web apps with **Next.js** and **TypeScript**.
+I’m currently focused on building scalable web apps with **React.js** **Next.js** and **TypeScript**.
 
 💻 Simply addicted to clean code, architecture and seamless UI.
 
-📬 How to reach me: [davidadekunle9@gmail.com](mailto:davidadekunle9@gmail.com)
+How to reach me: [davidadekunle9@gmail.com](mailto:davidadekunle9@gmail.com)
 
 ---
 

@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
 
-Hello, David here, Frontend Engineer.
+Hello, David here, Software Engineer.
 
 I’m currently focused on building scalable web apps with **React.js** **Next.js** and **TypeScript**.
 

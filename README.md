@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I am a results-driven **Frontend Engineer** based in Abuja[cite: 1], specializing in building responsive, component-driven, and scalable web applications using **React.js, Next.js, and TypeScript**[cite: 1]. 
+I am a results-driven **Frontend Engineer** based in Abuja, specializing in building responsive, component-driven, and scalable web applications using **React.js, Next.js, and TypeScript**. 
 
 * **Clean Architecture & Code Quality:** Obsessed with modular structures, clean code principles, and bulletproof TypeScript types.
 * **Modern UI Engineering:** Experienced in translating complex product requirements into seamless, accessible user experiences using **Tailwind CSS** and **Shadcn/UI**.
@@ -36,8 +36,8 @@ I am a results-driven **Frontend Engineer** based in Abuja[cite: 1], specializin
 ## 💼 Professional Experience & Highlights
 
 * **Frontend Developer @ Playlabs Limited:** Building and maintaining scalable web applications and high-performance interfaces.
-* **Frontend Engineer @ Cutstruct:** Developed user-centric features, responsive product catalogs, and real-time data visualization dashboards for a B2B construction procurement marketplace[cite: 1].
-* **Frontend Engineer @ SNL Nigeria:** Contributed to the full software development lifecycle using React, Redux, Next.js, and TypeScript[cite: 1].
+* **Frontend Engineer @ Cutstruct:** Developed user-centric features, responsive product catalogs, and real-time data visualization dashboards for a B2B construction procurement marketplace.
+* **Frontend Engineer @ SNL Nigeria:** Contributed to the full software development lifecycle using React, Redux, Next.js, and TypeScript.
 * **Past Impact:** Spearheaded frontend architectures and secure payment integrations (Stripe) for fintech and enterprise solutions like OneWallet and AET Ads.
 
 ---
